@@ -1,0 +1,407 @@
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.3
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 10
+PESOS FINAIS: [0.90000000000000002, 0.69999999999999996, -1.2]
+=======================
+Treinando a porta:
+OR
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 1 
+Taxa de Aprendizado: 0.3
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 11
+PESOS FINAIS: [3.0, 1.3, -0.29999999999999999]
+=======================
+Treinando a porta:
+NOR
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 0 
+Taxa de Aprendizado: 0.3
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 9
+PESOS FINAIS: [-0.59999999999999998, -0.80000000000000004, 0.0]
+=======================
+Treinando a porta:
+NAND
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+Taxa de Aprendizado: 0.3
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 12
+PESOS FINAIS: [-0.29999999999999999, -1.1000000000000001, 1.2]
+=======================
+Treinando a porta:
+NOT
+0 1 
+1 0 
+Taxa de Aprendizado: 0.3
+Pesos Iniciais: [3, 1.3]
+Epocas de treinamento: 13
+PESOS FINAIS: [-0.59999999999999998, 0.10000000000000001]
+=======================
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.4
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 7
+PESOS FINAIS: [1.0, 0.5, -1.3]
+=======================
+Treinando a porta:
+OR
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 1 
+Taxa de Aprendizado: 0.4
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 8
+PESOS FINAIS: [3.0, 1.3, -0.10000000000000001]
+=======================
+Treinando a porta:
+NOR
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 0 
+Taxa de Aprendizado: 0.4
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 9
+PESOS FINAIS: [-1.0, -1.1000000000000001, 0.29999999999999999]
+=======================
+Treinando a porta:
+NAND
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+Taxa de Aprendizado: 0.4
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 9
+PESOS FINAIS: [-0.20000000000000001, -1.1000000000000001, 1.1000000000000001]
+=======================
+Treinando a porta:
+NOT
+0 1 
+1 0 
+Taxa de Aprendizado: 0.4
+Pesos Iniciais: [3, 1.3]
+Epocas de treinamento: 10
+PESOS FINAIS: [-0.59999999999999998, 0.10000000000000001]
+=======================
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 6
+PESOS FINAIS: [1.0, 0.29999999999999999, -1.3]
+=======================
+Treinando a porta:
+OR
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 1 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 7
+PESOS FINAIS: [3.0, 1.3, -0.29999999999999999]
+=======================
+Treinando a porta:
+NOR
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 0 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 7
+PESOS FINAIS: [-1.0, -1.2, 0.20000000000000001]
+=======================
+Treinando a porta:
+NAND
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 8
+PESOS FINAIS: [-0.5, -1.2, 1.2]
+=======================
+Treinando a porta:
+NOT
+0 1 
+1 0 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3]
+Epocas de treinamento: 9
+PESOS FINAIS: [-1.0, 0.29999999999999999]
+=======================
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 6
+PESOS FINAIS: [1.0, 0.29999999999999999, -1.3]
+=======================
+Treinando a porta:
+OR
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 1 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 7
+PESOS FINAIS: [3.0, 1.3, -0.29999999999999999]
+=======================
+Treinando a porta:
+NOR
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 0 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 7
+PESOS FINAIS: [-1.0, -1.2, 0.20000000000000001]
+=======================
+Treinando a porta:
+NAND
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 8
+PESOS FINAIS: [-0.5, -1.2, 1.2]
+=======================
+Treinando a porta:
+NOT
+0 1 
+1 0 
+Taxa de Aprendizado: 0.5
+Pesos Iniciais: [3, 1.3]
+Epocas de treinamento: 9
+PESOS FINAIS: [-1.0, 0.29999999999999999]
+=======================
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.6
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Traceback (most recent call last):
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 134, in ?
+    treinar(p);
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 113, in treinar
+    print pesos;
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1204, in write
+    self.shell.write(s, self.tags)
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1193, in write
+    raise KeyboardInterrupt
+KeyboardInterrupt
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.8
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Traceback (most recent call last):
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 134, in ?
+    treinar(p);
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 113, in treinar
+    print pesos;
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1204, in write
+    self.shell.write(s, self.tags)
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1193, in write
+    raise KeyboardInterrupt
+KeyboardInterrupt
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.9
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Traceback (most recent call last):
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 134, in ?
+    treinar(p);
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 119, in treinar
+    print delta;
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1204, in write
+    self.shell.write(s, self.tags)
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1193, in write
+    raise KeyboardInterrupt
+KeyboardInterrupt
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 1
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Traceback (most recent call last):
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 134, in ?
+    treinar(p);
+  File "D:\uern\redes_neurais\neuronioLogico\LogicNeural4.py", line 113, in treinar
+    print pesos;
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1204, in write
+    self.shell.write(s, self.tags)
+  File "C:\Python24\lib\idlelib\PyShell.py", line 1193, in write
+    raise KeyboardInterrupt
+KeyboardInterrupt
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.1
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 21
+PESOS FINAIS: [1.1000000000000001, 0.29999999999999999, -1.2]
+=======================
+Treinando a porta:
+OR
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 1 
+Taxa de Aprendizado: 0.1
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 29
+PESOS FINAIS: [3.0, 1.3, -0.10000000000000001]
+=======================
+Treinando a porta:
+NOR
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 0 
+Taxa de Aprendizado: 0.1
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 22
+PESOS FINAIS: [-0.20000000000000001, -0.69999999999999996, 0.0]
+=======================
+Treinando a porta:
+NAND
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+Taxa de Aprendizado: 0.1
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 33
+PESOS FINAIS: [-0.20000000000000001, -1.1000000000000001, 1.1000000000000001]
+=======================
+Treinando a porta:
+NOT
+0 1 
+1 0 
+Taxa de Aprendizado: 0.1
+Pesos Iniciais: [3, 1.3]
+Epocas de treinamento: 32
+PESOS FINAIS: [-0.10000000000000001, 0.0]
+=======================
+>>> 
+Treinando a porta:
+AND
+0 0 0 
+0 1 0 
+1 0 0 
+1 1 1 
+Taxa de Aprendizado: 0.2
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 10
+PESOS FINAIS: [1.2, 0.10000000000000001, -1.3]
+=======================
+Treinando a porta:
+OR
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 1 
+Taxa de Aprendizado: 0.2
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 15
+PESOS FINAIS: [3.0, 1.3, -0.10000000000000001]
+=======================
+Treinando a porta:
+NOR
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 0 
+Taxa de Aprendizado: 0.2
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 11
+PESOS FINAIS: [-0.20000000000000001, -0.90000000000000002, 0.10000000000000001]
+=======================
+Treinando a porta:
+NAND
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+Taxa de Aprendizado: 0.2
+Pesos Iniciais: [3, 1.3, 2.7000000000000002]
+Epocas de treinamento: 17
+PESOS FINAIS: [-0.20000000000000001, -1.1000000000000001, 1.1000000000000001]
+=======================
+Treinando a porta:
+NOT
+0 1 
+1 0 
+Taxa de Aprendizado: 0.2
+Pesos Iniciais: [3, 1.3]
+Epocas de treinamento: 17
+PESOS FINAIS: [-0.20000000000000001, 0.10000000000000001]
+=======================
+>>> 
+
+
+
+
+
+
+

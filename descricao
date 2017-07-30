@@ -1,0 +1,22 @@
+1 Implemente computacionalmente um neuronio artificial com peso de
+forma que ele consiga simular uma porta lógica com 3 entradas:
+
+Utilize pra o treinamento do neurônio a aprendizagem por correção de erro, regra delta OK
+
+Investigar quantos eventos são necessários para que o neurônio aprenda OK
+
+O neurônio deve ser capaz de manter seu conhecimento
+
+O neurônio deve ser capaz de aprender qualquer porta lógica OK
+
+Valor do trabalho: 10,0
+4,0 - Implementação
+3,0 - Parte escrita
+3,0 - Apresentacao
+
+A parte escrita deverá ter
+- Introdução
+- Fundamentação teórica
+- Resultados
+- Conclusões
+- Referencias bibliográficas
