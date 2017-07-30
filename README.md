@@ -3,10 +3,10 @@ Trabalho Acadêmico de Redes Neurais
 
 * Implementação de um neuronio artificial com peso de
 forma que ele consiga simular uma porta lógica com 3 entradas:
--- Utilize pra o treinamento do neurônio a aprendizagem por correção de erro, regra delta (OK)
--- Investigar quantos eventos são necessários para que o neurônio aprenda (OK)
--- O neurônio deve ser capaz de manter seu conhecimento
--- O neurônio deve ser capaz de aprender qualquer porta lógica (OK)
+1. Utilize pra o treinamento do neurônio a aprendizagem por correção de erro, regra delta (OK)
+1. Investigar quantos eventos são necessários para que o neurônio aprenda (OK)
+1. O neurônio deve ser capaz de manter seu conhecimento
+1. O neurônio deve ser capaz de aprender qualquer porta lógica (OK)
 
 Como executar
 =============
